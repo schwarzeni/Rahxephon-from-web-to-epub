@@ -8,6 +8,6 @@
 
 ![](doc/image1.png)
 
-最终效果非常不错，也有插图，资源在 `doc` 文件夹中
+最终效果非常不错，也有插图、目录。资源在 `doc` 文件夹中
 
-![](doc/image2.png)
+![](doc/image3.png)
